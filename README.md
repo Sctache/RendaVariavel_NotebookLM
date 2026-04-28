@@ -51,6 +51,7 @@ https://youtu.be/NSjrGaOcp5M?si=VXdgpt4_-TK4bd6O
 
 https://youtu.be/khToouRsNts?si=XjN1_l8wdnQpTKor
 
+
 # Perguntas feitas para a Inteligência Artificial:
 
 1) "Diga-me, dentre as opções de investimento em renda variável, qual é o investimento que oferece menos risco."
@@ -60,8 +61,8 @@ Fundos Imobiliários (FIIs): São frequentemente descritos como mais estáveis d
 Embora suas cotas oscilem na bolsa, o fato de serem lastreados em ativos reais (imóveis) e oferecerem rendimentos mensais costuma atrair investidores com perfil moderado que buscam menor volatilidade 
 (...)
 É importante notar que investimentos como Commodities e Criptomoedas estão no outro extremo, sendo considerados de risco muito alto devido à volatilidade extrema e possibilidade de perdas patrimoniais significativas.
-  #### Análise: 
-Precisei cortar parte de sua resposta de tão completa que estava! A resposta é intuitiva, de fácil entendimento e bem explicativa.
+  #### Análise: Precisei cortar parte de sua resposta de tão completa que estava! A resposta é intuitiva, de fácil entendimento e bem explicativa.
+
 
 2) "Explique como utilizar indicadores específicos, como o P/VP ou a Taxa de Vacância, para avaliar o risco de um Fundo Imobiliário. Lembre-se de explicar de maneira simples, didática e detalhada para que uma pessoa que não tem acesso ao léxico financeiro possa entender."
   #### Resposta:
@@ -79,8 +80,8 @@ Vacância Financeira: É o quanto de dinheiro o fundo deixa de ganhar por causa 
 Como avaliar o risco: Se a vacância estiver muito alta, o fundo recebe menos aluguel e, consequentemente, sobra menos dinheiro para distribuir para você no final do mês. Se a taxa for muito maior do que a de outros fundos parecidos, isso pode indicar que os imóveis estão em locais ruins ou que a gestão não está conseguindo atrair inquilinos.
 Por que olhar os dois juntos?
 Nenhum desses sinais deve ser olhado sozinho. Um fundo com P/VP muito baixo (parecendo barato) pode ser um risco enorme se a vacância estiver subindo, pois isso mostra que o negócio está perdendo clientes e valor. O ideal é buscar um equilíbrio: fundos com imóveis bem localizados, baixa vacância e um preço (P/VP) que não seja exageradamente caro.
-  #### Análise:
-  A resposta cumpriu os requisitos especificados: foi detalhada, simples para entender e, ao mesmo tempo didática, sem perder o foco no objetivo do prompt: Esclarecer o que são P/VP e Taxa de Vacância, detalhando a sua importância na hora de analisar um Fundo Imobiliário.
+  #### Análise: A resposta cumpriu os requisitos especificados: foi detalhada, simples para entender e, ao mesmo tempo didática, sem perder o foco no objetivo do prompt: Esclarecer o que são P/VP e Taxa de Vacância, detalhando a sua importância na hora de analisar um Fundo Imobiliário.
+
 
 3) "Explique  a diferença entre os "Fundos de Tijolo" e os "Fundos de Papel", e como os riscos mudam entre eles. Lembre-se de explicar de maneira simples, didática e detalhada."
   #### Resposta:
@@ -97,12 +98,12 @@ Como você ganha: O fundo recebe os juros dessas dívidas (corrigidos pela infla
 O Risco Principal: Aqui o risco não é o prédio ficar vazio, mas sim o Calote (Risco de Crédito). Se a empresa que pegou o dinheiro emprestado não pagar a dívida, o fundo perde dinheiro. Além disso, eles são muito afetados pelas mudanças nas taxas de juros do país.
 Indicadores: O P/VP aqui funciona diferente. Como o fundo é composto por "dinheiro/contratos" e não por "tijolos", o P/VP costuma ficar sempre muito próximo de 1. Se estiver muito abaixo de 1, pode ser um sinal de que o mercado teme que as dívidas que o fundo possui não sejam pagas.
 Qual oferece menos risco? Geralmente, os Fundos de Tijolo são vistos como mais "palpáveis", pois mesmo em uma crise brava, o prédio físico continua lá. Já os Fundos de Papel podem ser mais rentáveis quando os juros estão altos, mas exigem que você confie que as empresas que pegaram o dinheiro emprestado vão honrar seus compromissos.
-  #### Análise:
-  Devolutiva completa, sem desvio de foco e com linguagem bem intuitiva de compreender.
+  #### Análise: Devolutiva completa, sem desvio de foco e com linguagem bem intuitiva de compreender.
+
 
 # Considerações Finais
-
 A Inteligência Artificial supera-se a cada dia que passa. Fico muito grata pela oportunidade de conhecer NotebookLM, uma ferramente útil em vários aspectos e assuntos, desde em um estudo autônomo e disciplinado, até na elaboração de soluções para diferentes áreas de uma empresa, como no Marketing. É uma ferramenta que pode ser treinada facilmente por qualquer pessoa e ser um grande aliado em extensas pesquisas, principalmente, se usado com inteligência e estratégia.
 
 # Glossário
 
+<img width="4010" height="9036" alt="NotebookLM Mind Map (1)" src="https://github.com/user-attachments/assets/27b24ee0-8c88-4c46-8603-70b155dc57d3" />
